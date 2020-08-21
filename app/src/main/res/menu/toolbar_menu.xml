@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/for_users"
+          android:title="For Users"/>
+
+    <item android:id="@+id/for_merchants"
+        android:title="For Merchants"/>
+
+    <item android:id="@+id/about_blakoo"
+        android:title="About Blakoo and Privacy"/>
+
+    <item android:id="@+id/help_center"
+        android:title="Help Center"/>
+
+</menu>
